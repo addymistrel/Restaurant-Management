@@ -1,0 +1,4 @@
+1,veg pizza,600
+2,Egg Roll,80
+3,Momo,120
+4,Pastry,80

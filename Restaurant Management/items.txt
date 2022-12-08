@@ -1,0 +1,4 @@
+1, veg pizza,600
+2, garlic bread, 200
+3, Egg Roll,80
+4, Momo,120
